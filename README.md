@@ -6,7 +6,7 @@ A modern, full-stack e-commerce web application designed to deliver a secure, fa
 ## 🌐 **Live Demo**
 
 👉 [Check out the live website here](https://your-app.onrender.com)  
-*(Replace with your actual Render URL)*
+
 
 ---
 
