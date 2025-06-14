@@ -1,6 +1,6 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+**👉 [View Live Demo on Render](https://ecommerce-store-idsh.onrender.com)** 
 
 About This Course:
 
